@@ -1,3 +1,8 @@
-# 🔐 File Integrity Checker
-A simple script for **scanning a directory**, **calculating hashes** for each file, and **detecting any subsequent modifications**.
----
+# File Integrity Checker
+```
+   _____ ___ ____                 _        ___  
+  |  ___|_ _/ ___|               / |      / _ \ 
+  | |_   | | |         _____     | |     | | | |
+  |  _|  | | |___     |_____|    | |  _  | |_| |
+  |_|   |___\____|               |_| (_)  \___/ 
+```
